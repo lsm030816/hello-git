@@ -21,3 +21,13 @@
 -이승민
 -오픈소프트웨어실습
 -5주차 
+
+---
+
+- 원격저장소 만들기
+  - origin 연결하기
+  - push
+- pull vs fetch
+  -pull
+  fetch
+-협업하기
